@@ -74,6 +74,10 @@ body.cv a:hover {
   z-index: 1000;
 }
 
+.cv-text > p > a {
+  font-weight: bold;
+}
+
 .nav_menu_desktop {
   display: none;
   /* position: fixed;
